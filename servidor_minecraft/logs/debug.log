@@ -1565,3 +1565,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 15:56:03.587] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
 [18Dec2024 15:58:14.823] [Server thread/INFO] [Console/]: TPS from last 1m, 5m, 15m: *20.0, *20.0, *20.0
 [18Dec2024 15:58:14.823] [Server thread/INFO] [Console/]: Current Memory Usage: 1474/2464 mb (Max: 12288 mb)
+[18Dec2024 16:01:03.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[18Dec2024 16:01:03.490] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[18Dec2024 16:06:03.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[18Dec2024 16:06:03.487] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[18Dec2024 16:10:21.473] [Server thread/INFO] [Console/]: TPS from last 1m, 5m, 15m: *20.0, *20.0, *20.0
+[18Dec2024 16:10:21.473] [Server thread/INFO] [Console/]: Current Memory Usage: 1239/2464 mb (Max: 12288 mb)
+[18Dec2024 16:11:03.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[18Dec2024 16:11:03.488] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
