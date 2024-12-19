@@ -1632,3 +1632,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [19Dec2024 19:46:47.260] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [19Dec2024 19:50:09.344] [Server thread/INFO] [Console/]: TPS from last 1m, 5m, 15m: *20.0, *20.0, *20.0
 [19Dec2024 19:50:09.344] [Server thread/INFO] [Console/]: Current Memory Usage: 1312/2048 mb (Max: 10240 mb)
+[19Dec2024 19:51:47.250] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 19:51:47.271] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 19:56:47.250] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 19:56:47.255] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 20:01:15.045] [Server thread/INFO] [Console/]: TPS from last 1m, 5m, 15m: *20.0, *20.0, *20.0
+[19Dec2024 20:01:15.045] [Server thread/INFO] [Console/]: Current Memory Usage: 1248/2048 mb (Max: 10240 mb)
+[19Dec2024 20:01:17.945] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
