@@ -1,0 +1,32 @@
+Events:
+  creeper:
+    type: player_damage
+    conditions:
+    - '%cause% == ENTITY_EXPLOSION'
+    - '%damager_type% == CREEPER'
+    actions:
+      default:
+      - 'set_damage: 1000%'
+  flecha_esqueleto:
+    type: player_damage
+    conditions:
+    - '%cause% == PROJECTILE'
+    - '%damager_type% == ARROW'
+    actions:
+      default:
+      - 'set_damage: 0'
+  fuego:
+    type: player_damage
+    conditions:
+    - '%cause% == FIRE_TICK or %cause% == FIRE'
+    actions:
+      default:
+      - 'set_damage: 0'
+  zombie_1:
+    type: player_damage
+    conditions:
+    - '%cause% == ENTITY_ATTACK'
+    - '%damager_type% == ZOMBIE'
+    actions:
+      default:
+      - 'set_damage: 500%'
